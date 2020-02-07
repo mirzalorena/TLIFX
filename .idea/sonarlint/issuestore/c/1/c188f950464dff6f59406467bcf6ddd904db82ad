@@ -1,0 +1,11 @@
+
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÆ»…
+Rsquid:S2864-"4Iterate over the "entrySet" instead of the "keySet".(óúœÖ8ş¬¼íü-
+ksquid:S1182+"HUse super.clone() to create and seed the cloned instance to be returned.(¡Š±åÿÿÿÿÿ8ş¬¼íü-
+:squid:S1643C"Use a StringBuilder instead.(°†ÿ‚8ş¬¼íü-
+Zsquid:UselessImportCheck"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8¤™Ÿíü-
+?squid:S1643D"Use a StringBuilder instead.(°“¡şüÿÿÿÿ8ş¬¼íü-
+gsquid:UselessImportCheck"7Remove this unused import 'Model.DataStructures.Value'.(â®ÀÚùÿÿÿÿ8Şï»íü-
+Vsquid:S3252A"3Use static access with "java.util.Map" for "Entry".(µÙÇ÷úÿÿÿÿ8ş¬¼íü-
+ssquid:S00116"ORename this field "_map" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ñ±¤ıÿÿÿÿ8ş¬¼íü-
+vsquid:S2975+"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¡Š±åÿÿÿÿÿ8ş¬¼íü-

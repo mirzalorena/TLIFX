@@ -1,0 +1,4 @@
+
+csquid:UselessImportCheck":Remove this unused import 'Model.DataStructures.BoolType'.(“­ðâûÿÿÿÿ
+~squid:S1488"gImmediately return this expression instead of assigning it to the temporary variable "newProgramState".(¬Œä½
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ž¢Ôû

@@ -1,0 +1,10 @@
+
+Ssquid:S1191"5Use classes from the Java API instead of Sun classes.(Ëù»Í8ìÄŸ²õ-
+ssquid:UselessImportCheck"HRemove this unused import 'javafx.beans.property.SimpleIntegerProperty'.(©Ú¡8­µ·²õ-
+Ksquid:S1602ö",Remove useless curly braces around statement(½‚·†8šÕ°´õ-
+^squid:UselessImportCheck".Remove this unused import 'Model.MyException'.(ùø§Ôùÿÿÿÿ8æúö´õ-
+esquid:UselessImportCheck	":Remove this unused import 'Model.DataStructures.IntValue'.(ñª–Î8ï­£òô-
+Ksquid:S1602ô",Remove useless curly braces around statement(§¯˜8ï­£òô-
+osquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(—–ù®ùÿÿÿÿ8£İˆµõ-
+lsquid:UselessImportCheck"ARemove this unused import 'com.sun.source.doctree.AttributeTree'.(Ëù»Í8ìÄŸ²õ-
+isquid:UselessImportCheck">Remove this unused import 'Model.Expressions.ValueExpression'.(şö–8åïğô-

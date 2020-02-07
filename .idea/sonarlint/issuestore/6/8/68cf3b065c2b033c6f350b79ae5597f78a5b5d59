@@ -1,0 +1,12 @@
+
+`squid:S3973n"IUse indentation to denote the code conditionally executed by this "else".(ÔÍØ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿¼âÂ
+nsquid:S3776("RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(œêÊùøÿÿÿÿ
+7squid:S16595" Declare "n2" on a separate line.(òÿ³Û
+Msquid:S5261C"1Add explicit curly braces to avoid dangling else.(„¶áìøÿÿÿÿ
+>squid:S1659g""Declare "typ2" on a separate line.(ÐÃŽ˜ÿÿÿÿÿ
+gsquid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(Ë²–˜ûÿÿÿÿ
+gsquid:CommentedOutCodeLineO"<This block of commented-out lines of code should be removed.(éüÂ üÿÿÿÿ
+gsquid:CommentedOutCodeLineR"<This block of commented-out lines of code should be removed.(’•îæýÿÿÿÿ
+gsquid:CommentedOutCodeLineT"<This block of commented-out lines of code should be removed.(­ª›Íüÿÿÿÿ
+bsquid:CommentedOutCodeLine^"<This block of commented-out lines of code should be removed.(ÄÜ˜Ã

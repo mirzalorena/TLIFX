@@ -1,0 +1,5 @@
+
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìºéÚ
+fsquid:UselessImportCheck"=Remove this unused import 'Collection.InterfaceMyDictionary'.(‹òàıüÿÿÿÿ
+Ysquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(Ìáüûÿÿÿÿ
